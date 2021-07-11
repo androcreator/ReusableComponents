@@ -73,7 +73,7 @@ class AppBindingAdapter {
 
         @BindingAdapter("bind_identifier", requireAll = true)
         @JvmStatic
-        fun loadImage(imageView: ImageView, identifier: String?){
+        fun saveImage(imageView: ImageView, identifier: String?){
             val context = imageView.context
             try {
                 val id = context.resources.

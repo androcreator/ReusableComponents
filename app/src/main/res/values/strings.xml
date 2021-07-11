@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">ReusableComponents</string>
+    <string name="accordian_color">#008577</string>
+    <string name="accordian_fontStyle">Roboto-Medium</string>
+    <string name="sample_text">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin sed sem at ligula elementum laoreet non sit amet leo. Curabitur id ipsum posuere, faucibus urna nec, iaculis sem. Duis eget mauris at mauris hendrerit egestas. Aliquam erat volutpat. Quisque ac posuere lacus, et pretium ante. Ut vel mattis arcu. Ut sit amet sem congue, varius ipsum sed, lobortis purus. Quisque suscipit porttitor semper. Donec mollis nulla elit, nec vestibulum elit feugiat vitae. Suspendisse potenti.</string>
+</resources>

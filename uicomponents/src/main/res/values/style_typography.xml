@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="text_style_light" parent="TextAppearance.AppCompat">
+        <item name="android:fontFamily"> sans-serif-light</item>
+    </style>
+
+    <style name="text_style_medium" parent="TextAppearance.AppCompat">
+        <item name="android:fontFamily"> sans-serif-medium</item>
+    </style>
+
+    <style name="text_style_regular" parent="TextAppearance.AppCompat">
+        <item name="android:fontFamily"> sans-serif</item>
+    </style>
+</resources>

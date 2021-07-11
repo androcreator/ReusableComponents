@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="accordianView">
+        <attr name="titleColor" format="string"/>
+        <attr name="titleFontStyle" format="string"/>
+        <attr name="titleFontSize" format="float"/>
+    </declare-styleable>
+</resources>

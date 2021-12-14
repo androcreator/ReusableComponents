@@ -13,6 +13,8 @@ This module helps to list and manage all the dependencies of the app at one plac
 
 ## - uicomponents
 This module contains code related to accordian view, it contains parent and child view population with custom list view.
+### - Accordian View
+### - Other views to be added soon
 
 # Usage
 

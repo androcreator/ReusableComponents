@@ -1,6 +1,8 @@
 # ReusableComponents
 This projects contains reusable components that contains accordian view built and this library can be updated for adding more views
 
+![Demo Video](https://user-images.githubusercontent.com/5475652/145971410-fc740931-e941-42e2-b5a5-3d96a62e9288.gif)
+
 ## Modules of App
 
 ## - App

@@ -77,6 +77,19 @@ This module contains code related to accordian view, it contains parent and chil
 
 [Databinding](https://developer.android.com/topic/libraries/data-binding) -The Data Binding Library is a support library that allows you to bind UI components in your layouts to data sources in your app using a declarative format rather than programmatically
 
+# MAD Scorecard
+## - Kotlin
+![Score Card](https://user-images.githubusercontent.com/5475652/148346315-36c7ce26-5745-45c5-bc7c-cda5ac96458d.png)
+
+## - Jetpack
+![Score Card](https://user-images.githubusercontent.com/5475652/148346574-a53af2c3-ed6b-484a-a142-e6bb3a288f33.png)
+
+## - Android Studio
+![Score Card](https://user-images.githubusercontent.com/5475652/148346677-5b3a5c74-9597-446d-891c-db4b3628bb3b.png)
+
+## - Summary
+![Score Card](https://user-images.githubusercontent.com/5475652/148346739-a245b4f4-ceb8-475b-a7e6-43d79f9954a3.png)
+
 
 # -License
 

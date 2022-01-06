@@ -14,6 +14,9 @@ import com.reusable.uicomponents.R
 import com.reusable.uicomponents.enums.FontStyle
 import java.lang.Exception
 
+/**
+ * Binder class that helps to bind the properties from this class.
+ */
 class AppBindingAdapter {
     companion object{
         @BindingAdapter("bind_background", requireAll = true)

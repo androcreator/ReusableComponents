@@ -24,6 +24,9 @@ class MainActivity<VB : ViewDataBinding> : BaseActivity<ActivityMainBinding, Bas
         populateAdapter()
     }
 
+    /**
+     * This method populates parent and child view.
+     */
     fun populateAdapter(){
         val list = dummydata()
         val parentList = ArrayList<String>(list.keys)
@@ -34,6 +37,9 @@ class MainActivity<VB : ViewDataBinding> : BaseActivity<ActivityMainBinding, Bas
         }
     }
 
+    /**
+     * Just Dummy data for populating UI
+     */
     fun dummydata(): HashMap<String, List<String>> {
         val list = LinkedHashMap<String, List<String>>()
         list["one"] = emptyList()
@@ -68,16 +74,19 @@ class MainActivity<VB : ViewDataBinding> : BaseActivity<ActivityMainBinding, Bas
         when(listPosition){
             0 -> {
                 if(view == null){
+                    //Add your own custom layout
                     view = layoutInflater.inflate(R.layout.view_accordian_child,parent,false)
                 }
             }
             1 -> {
                 if(view == null){
+                    //Add your own custom layout
                     view = layoutInflater.inflate(R.layout.view_accordian_child,parent,false)
                 }
             }
             2 -> {
                 if(view == null){
+                    //Add your own custom layout
                     view = layoutInflater.inflate(R.layout.view_accordian_child,parent,false)
                 }
             }
